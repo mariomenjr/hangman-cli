@@ -1,0 +1,29 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "Hangman-game in command line!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomenjr/Hangman-CLI.git"
+  },
+  "keywords": [
+    "hangman",
+    "cli",
+    "game",
+    "uci",
+    "prototypes"
+  ],
+  "author": "Mario Menjivar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariomenjr/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/mariomenjr/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  }
+}
