@@ -1,4 +1,4 @@
 const Game = require("./lib/game");
 
-const hangman = new Game(["Alice in Wonderland", "Javascript"]);
+const hangman = new Game(["Alice", "Javascript"]);
 hangman.play();
