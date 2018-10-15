@@ -1,3 +1,7 @@
 ## Hangman-CLI
 
-This version of Hangman-Game uses Inquirer library to ease the interaction with the user through a Command Line Interface.
+Hangman game command-line-interface version.
+
+It has been used Inquirer npm-pkg to create a wonderful user interaction.
+
+![](https://i.imgur.com/ysxEUaA.gif)
