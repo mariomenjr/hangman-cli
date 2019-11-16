@@ -1,7 +1,6 @@
-## Hangman-CLI
+## hangman-cli the game
 
-Hangman game command-line-interface version.
-
-It has been used Inquirer npm-pkg to create a wonderful user interaction.
+Are you familiar with the paper-pencil based hangman game?
+This is a cli version using one of the most amazing libraries to ease cli interaction, inquirer. Enjoy!
 
 ![](https://i.imgur.com/ysxEUaA.gif)
